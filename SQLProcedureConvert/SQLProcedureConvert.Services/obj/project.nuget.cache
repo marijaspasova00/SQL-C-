@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "LO4ZeIg7tSRAWtLZxc06u4ACCILyZD9xTnVKY/diJHR17/9xbo29i7Dn2Bo0FvK5pe0Ge4xlZv6BwTMddkFEFg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SQLProcedureConvert.DataAccess is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SQLProcedureConvert.DataAccess supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SQLProcedureConvert.DataAccess",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SQLProcedureConvert.Domain is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SQLProcedureConvert.Domain supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SQLProcedureConvert.Domain",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

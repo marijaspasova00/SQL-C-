@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yi+j2c2zYVQ80hC6mgZHheDq2U5Gwm69Bn2hsSok/Vf7groxwDIZ7fbiKDJUPb86FDr28rSwBx7fjI4N+qlRrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

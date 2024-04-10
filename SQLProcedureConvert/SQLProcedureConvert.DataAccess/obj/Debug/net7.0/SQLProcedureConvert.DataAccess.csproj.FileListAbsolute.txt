@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.deps.json
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.runtimeconfig.json
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.dll
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.pdb
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.Domain.dll
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\bin\Debug\net7.0\SQLProcedureConvert.Domain.pdb
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProce.A4344829.Up2Date
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.dll
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\refint\SQLProcedureConvert.DataAccess.dll
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.pdb
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\SQLProcedureConvert.DataAccess.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.DataAccess\obj\Debug\net7.0\ref\SQLProcedureConvert.DataAccess.dll

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using SQLProcedureConvert.DataAccess.Implementations;
 
 namespace SQLProcedureConvert.Services.Implemenations
 {
@@ -22,6 +23,18 @@ namespace SQLProcedureConvert.Services.Implemenations
         {
             await _caStatusRepository.CreateAsync(caStatusDb);
             return caStatusDb.ID;
+        }
+
+        public async Task<List<ChangeApplicationStatus>> GetAllAsync()
+        {
+            List<ChangeApplicationStatus> changeApplicationStatuses = await _caStatusRepository.GetAllAsync();
+
+            if (changeApplicationStatuses == null)
+            {
+                throw new Exception("Statuses are null");
+            }
+
+            return changeApplicationStatuses.ToList();
         }
     }
 }

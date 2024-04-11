@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {}
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
+        "projectUniqueName": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
         "projectName": "SQLProcedureConvert.Domain",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\obj\\",
+        "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,14 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
               "target": "Package",
               "version": "[6.5.0, )"
             }

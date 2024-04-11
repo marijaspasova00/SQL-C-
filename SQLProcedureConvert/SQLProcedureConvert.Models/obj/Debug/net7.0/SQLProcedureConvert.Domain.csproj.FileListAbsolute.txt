@@ -10,3 +10,15 @@ C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug
 C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\refint\SQLProcedureConvert.Domain.dll
 C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.pdb
 C:\Users\LENOVO\Desktop\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\ref\SQLProcedureConvert.Domain.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\bin\Debug\net7.0\SQLProcedureConvert.Domain.deps.json
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\bin\Debug\net7.0\SQLProcedureConvert.Domain.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\bin\Debug\net7.0\SQLProcedureConvert.Domain.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.csproj.AssemblyReference.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.AssemblyInfoInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.AssemblyInfo.cs
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.csproj.CoreCompileInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\refint\SQLProcedureConvert.Domain.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\SQLProcedureConvert.Domain.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Models\obj\Debug\net7.0\ref\SQLProcedureConvert.Domain.dll

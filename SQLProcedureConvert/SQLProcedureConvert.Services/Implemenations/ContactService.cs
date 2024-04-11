@@ -1,5 +1,4 @@
 ﻿using SQLProcedureConvert.DataAccess.Interaces;
-using SQLProcedureConvert.Models.Models;
 using SQLProcedureConvert.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -7,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using SQLProcedureConvert.Domain.Models;
 
 namespace SQLProcedureConvert.Services.Implemenations
 {
@@ -17,11 +17,11 @@ namespace SQLProcedureConvert.Services.Implemenations
         {
             _contactRepository = contactRepository;
         }
-        public async Task<int> CreateAsync(Contact contact)
+        public async Task<bool> CreateAsync(Contact contact)
         {
-            Contact contactDb = await GetByIdAsync(contact.ID);
-            await _contactRepository.CreateAsync(contactDb);
-            return contactDb.ID;
+            
+            await _contactRepository.CreateAsync(contact);
+            return true;
         }
 
         public async Task DeleteAsync(int id)
@@ -43,7 +43,7 @@ namespace SQLProcedureConvert.Services.Implemenations
 
         public async Task<Contact> GetByIdAsync(int id)
         {
-            Contact contact = await GetByIdAsync(id);
+            Contact contact = await _contactRepository.GetByIdAsync(id);
             if (contact == null)
             {
                 throw new Exception("Contact is null");

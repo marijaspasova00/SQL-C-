@@ -4,7 +4,6 @@ using SQLProcedureConvert.DataAccess;
 using SQLProcedureConvert.DataAccess.Implementations;
 using SQLProcedureConvert.DataAccess.Interaces;
 using SQLProcedureConvert.Domain.Models;
-using SQLProcedureConvert.Models.Models;
 using SQLProcedureConvert.Services.Implemenations;
 using SQLProcedureConvert.Services.Interfaces;
 using System;
@@ -21,8 +20,8 @@ namespace SQLProcedureConvert.Helpers
     {
         public static void InjectDbContext(this IServiceCollection services)
         {
-            services.AddDbContext<ProjectDBContext>(options => options.UseSqlServer(@"Data Source=(localdb)\SEDCLocalDb;Database=sqlProcedure;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"));
-        }
+            services.AddDbContext<ProjectDBContext>(options => options.UseSqlServer(@"Data Source=DESKTOP-5PRDE8C\SQLEXPRESS;database=sqlProcedure; Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
+  }
         public static void InjectRepositories(this IServiceCollection services)
         {
             services.AddTransient<IContactRepository, ContactRepository>();

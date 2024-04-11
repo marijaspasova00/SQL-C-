@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj": {}
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj",
+        "projectUniqueName": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj",
         "projectName": "SQLProcedureConvert.DataAccess",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\obj\\",
+        "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
               }
             }
           }
@@ -72,6 +72,14 @@
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -94,38 +102,38 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj": {
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj",
+        "projectUniqueName": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj",
         "projectName": "SQLProcedureConvert.Helpers",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\obj\\",
+        "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj"
               },
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
               },
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj"
               }
             }
           }
@@ -142,8 +150,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
@@ -174,17 +182,17 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
+        "projectUniqueName": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
         "projectName": "SQLProcedureConvert.Domain",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\obj\\",
+        "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -218,6 +226,14 @@
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -240,35 +256,35 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj": {
+    "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj",
+        "projectUniqueName": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj",
         "projectName": "SQLProcedureConvert.Services",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Services\\obj\\",
+        "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\SQLProcedureConvert.Services.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.DataAccess\\SQLProcedureConvert.DataAccess.csproj"
               },
-              "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
+              "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj": {
+                "projectPath": "D:\\SQL-C--main\\SQLProcedureConvert\\SQLProcedureConvert.Models\\SQLProcedureConvert.Domain.csproj"
               }
             }
           }
@@ -285,8 +301,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",

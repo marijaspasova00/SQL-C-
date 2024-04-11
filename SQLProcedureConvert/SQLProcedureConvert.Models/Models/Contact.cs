@@ -5,11 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SQLProcedureConvert.Models.Models
+namespace SQLProcedureConvert.Domain.Models
 {
     public class Contact : BaseEntity
     {
         public string Name { get; set; }
-        public ICollection<Application> applications { get; set; }
+        //public List<Application> applications { get; set; }
+
     }
 }

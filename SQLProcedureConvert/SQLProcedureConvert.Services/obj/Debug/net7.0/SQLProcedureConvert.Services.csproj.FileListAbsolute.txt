@@ -1,0 +1,17 @@
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.Services.deps.json
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.Services.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.Services.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.Domain.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.DataAccess.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\bin\Debug\net7.0\SQLProcedureConvert.Domain.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.csproj.AssemblyReference.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.AssemblyInfoInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.AssemblyInfo.cs
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.csproj.CoreCompileInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProce.11C754CE.Up2Date
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\refint\SQLProcedureConvert.Services.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\SQLProcedureConvert.Services.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.Services\obj\Debug\net7.0\ref\SQLProcedureConvert.Services.dll

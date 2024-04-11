@@ -10,5 +10,6 @@ namespace SQLProcedureConvert.DataAccess.Interaces
     public interface IChangeApplicationStatusRepository
     {
         Task<int> CreateAsync(ChangeApplicationStatus caStatus);
+        Task<List<ChangeApplicationStatus>> GetAllAsync();
     }
 }

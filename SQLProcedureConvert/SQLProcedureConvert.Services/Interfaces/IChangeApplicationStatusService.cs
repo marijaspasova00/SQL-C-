@@ -10,5 +10,6 @@ namespace SQLProcedureConvert.Services.Interfaces
     public interface IChangeApplicationStatusService
     {
         Task<int> CreateAsync(ChangeApplicationStatus caStatus);
+        Task<List<ChangeApplicationStatus>> GetAllAsync();
     }
 }

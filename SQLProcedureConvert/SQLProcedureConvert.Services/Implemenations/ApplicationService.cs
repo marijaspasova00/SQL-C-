@@ -20,9 +20,8 @@ namespace SQLProcedureConvert.Services.Implemenations
         }
         public async Task<int> CreateAsync(Application application)
         {
-            Application applicationDb = await GetByIdAsync(application.ID);
-            await _applicationRepository.CreateAsync(applicationDb);
-            return applicationDb.ID;
+            await _applicationRepository.CreateAsync(application);
+            return application.ID;
         }
 
         public async Task  DeleteAsync(int id)
@@ -44,7 +43,7 @@ namespace SQLProcedureConvert.Services.Implemenations
 
         public async Task<Application> GetByIdAsync(int id)
         {
-            Application application = await GetByIdAsync(id);
+            Application application = await _applicationRepository.GetByIdAsync(id);
             if (application == null)
             {
                 throw new Exception("Contact is null");
@@ -63,7 +62,6 @@ namespace SQLProcedureConvert.Services.Implemenations
                 throw new Exception("Applications is null!");
             }
             csDb.ApplicationID = application.ID;
-            csDb.ContactID = application.ContactID;
             csDb.StatusFrom = applicationDb.CurrentStatus;
             csDb.Date = DateTime.Now;
             applicationDb.CurrentStatus = application.CurrentStatus;

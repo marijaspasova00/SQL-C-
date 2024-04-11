@@ -1,4 +1,4 @@
-﻿using SQLProcedureConvert.Models.Models;
+﻿using SQLProcedureConvert.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -13,7 +13,9 @@ namespace SQLProcedureConvert.Domain.Models
         [ForeignKey("Contact")]
         public int ContactID { get; set; }
         public Contact Contact { get; set; }
-        public int CurrentStatus { get; set; }
-        public ICollection<ChangeApplicationStatus> ChangeApplicationStatus { get; set; }
+        public Status CurrentStatus { get; set; }
+
+        public List<ChangeApplicationStatus> ChangeApplicationStatus { get; set; }
+
     }
 }

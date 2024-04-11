@@ -1,0 +1,14 @@
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\bin\Debug\net7.0\SQLProcedureConvert.DTOs.deps.json
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\bin\Debug\net7.0\SQLProcedureConvert.DTOs.runtimeconfig.json
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\bin\Debug\net7.0\SQLProcedureConvert.DTOs.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\bin\Debug\net7.0\SQLProcedureConvert.DTOs.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.csproj.AssemblyReference.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.AssemblyInfoInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.AssemblyInfo.cs
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.csproj.CoreCompileInputs.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\refint\SQLProcedureConvert.DTOs.dll
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.pdb
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\SQLProcedureConvert.DTOs.genruntimeconfig.cache
+D:\SQL-C--main\SQLProcedureConvert\SQLProcedureConvert.DTOs\obj\Debug\net7.0\ref\SQLProcedureConvert.DTOs.dll

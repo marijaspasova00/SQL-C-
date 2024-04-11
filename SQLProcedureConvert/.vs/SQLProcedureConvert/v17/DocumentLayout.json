@@ -1,75 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{463329D5-5D46-4E36-BE57-F99AC3561882}|SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj|c:\\users\\lenovo\\desktop\\sqlprocedureconvert\\sqlprocedureconvert.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463329D5-5D46-4E36-BE57-F99AC3561882}|SQLProcedureConvert.Helpers\\SQLProcedureConvert.Helpers.csproj|solutionrelative:sqlprocedureconvert.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F056A3D-07AA-4FD2-993B-77B8124C7AB1}|SQLProcedureConvert\\SQLProcedureConvert.csproj|c:\\users\\lenovo\\desktop\\sqlprocedureconvert\\sqlprocedureconvert\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F056A3D-07AA-4FD2-993B-77B8124C7AB1}|SQLProcedureConvert\\SQLProcedureConvert.csproj|solutionrelative:sqlprocedureconvert\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F056A3D-07AA-4FD2-993B-77B8124C7AB1}|SQLProcedureConvert\\SQLProcedureConvert.csproj|c:\\users\\lenovo\\desktop\\sqlprocedureconvert\\sqlprocedureconvert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F056A3D-07AA-4FD2-993B-77B8124C7AB1}|SQLProcedureConvert\\SQLProcedureConvert.csproj|solutionrelative:sqlprocedureconvert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\SQL-C--main\\SQLProcedureConvert\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SQLProcedureConvert\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SQLProcedureConvert\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-10T18:34:53.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert\\appsettings.json",
-              "RelativeDocumentMoniker": "SQLProcedureConvert\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert\\appsettings.json",
-              "RelativeToolTip": "SQLProcedureConvert\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-10T18:34:46.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjectionHelper.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\DependencyInjectionHelper.cs",
-              "RelativeDocumentMoniker": "SQLProcedureConvert.Helpers\\DependencyInjectionHelper.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SQLProcedureConvert\\SQLProcedureConvert.Helpers\\DependencyInjectionHelper.cs",
-              "RelativeToolTip": "SQLProcedureConvert.Helpers\\DependencyInjectionHelper.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAACNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T18:30:40.018Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

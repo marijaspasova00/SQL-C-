@@ -1,4 +1,4 @@
-﻿using SQLProcedureConvert.Models.Models;
+﻿using SQLProcedureConvert.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

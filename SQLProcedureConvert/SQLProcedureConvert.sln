@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLProcedureConvert.DataAcc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLProcedureConvert.Services", "SQLProcedureConvert.Services\SQLProcedureConvert.Services.csproj", "{448B0563-2DBE-4A1A-89AE-422FA255F0F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLProcedureConvert.Helpers", "SQLProcedureConvert.Helpers\SQLProcedureConvert.Helpers.csproj", "{463329D5-5D46-4E36-BE57-F99AC3561882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLProcedureConvert.Helpers", "SQLProcedureConvert.Helpers\SQLProcedureConvert.Helpers.csproj", "{463329D5-5D46-4E36-BE57-F99AC3561882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

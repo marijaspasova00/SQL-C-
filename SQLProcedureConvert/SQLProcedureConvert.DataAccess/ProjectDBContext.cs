@@ -1,18 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SQLProcedureConvert.Domain.Models;
-using SQLProcedureConvert.Models.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace SQLProcedureConvert.DataAccess
 {
     public class ProjectDBContext : DbContext
     {
-        public ProjectDBContext(DbContextOptions options) : base(options)
+        public ProjectDBContext(DbContextOptions<ProjectDBContext> options) : base(options)
         {
 
         }
@@ -24,9 +24,7 @@ namespace SQLProcedureConvert.DataAccess
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Application>()
-                   .HasOne(a => a.Contact)
-                   .WithMany(c => c.applications)
-                   .HasForeignKey(a => a.ContactID);
+                   .HasOne(a => a.Contact);
             modelBuilder.Entity<ChangeApplicationStatus>()
                    .HasOne(s => s.Application)
                    .WithMany(a => a.ChangeApplicationStatus)

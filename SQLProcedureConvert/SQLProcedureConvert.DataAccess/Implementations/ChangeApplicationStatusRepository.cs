@@ -1,4 +1,5 @@
-﻿using SQLProcedureConvert.DataAccess.Interaces;
+﻿using Microsoft.EntityFrameworkCore;
+using SQLProcedureConvert.DataAccess.Interaces;
 using SQLProcedureConvert.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -20,6 +21,11 @@ namespace SQLProcedureConvert.DataAccess.Implementations
             await _dbContext.ChangeApplicationStatus.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
             return entity.ID;
+        }
+
+        public async Task<List<ChangeApplicationStatus>> GetAllAsync()
+        {
+            return await _dbContext.ChangeApplicationStatus.ToListAsync();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SQLProcedureConvert.Models.Models
+namespace SQLProcedureConvert.Domain.Models
 {
     public class BaseEntity
     {

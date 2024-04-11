@@ -1,4 +1,4 @@
-﻿using SQLProcedureConvert.Models.Models;
+﻿using SQLProcedureConvert.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +11,7 @@ namespace SQLProcedureConvert.Services.Interfaces
     {
         Task<List<Contact>> GetAllAsync();
         Task<Contact> GetByIdAsync(int id);
-        Task<int> CreateAsync(Contact contact);
+        Task<bool> CreateAsync(Contact contact);
         Task<Contact> UpdateAsync(Contact contact, int id);
         Task DeleteAsync(int id);
     }

@@ -61,7 +61,7 @@ namespace SQLProcedureConvert.Services.Implemenations
             {
                 throw new Exception("Applications is null!");
             }
-            csDb.ApplicationID = application.ID;
+            csDb.ApplicationID = id;
             csDb.StatusFrom = applicationDb.CurrentStatus;
             csDb.Date = DateTime.Now;
             applicationDb.CurrentStatus = application.CurrentStatus;

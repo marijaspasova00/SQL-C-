@@ -14,10 +14,9 @@ namespace SQLProcedureConvert.Services.Implemenations
     public class ChangeApplicationStatusService : IChangeApplicationStatusService
     {
         private readonly IChangeApplicationStatusRepository _caStatusRepository;
-        //private readonly IApplicationRepository _applicationRepository;
         public ChangeApplicationStatusService(IChangeApplicationStatusRepository _caStatusRepository1)
         {
-            _caStatusRepository1 = _caStatusRepository;
+            _caStatusRepository = _caStatusRepository1;
         }
         public async Task<int> CreateAsync(ChangeApplicationStatus caStatusDb)
         {
@@ -27,6 +26,8 @@ namespace SQLProcedureConvert.Services.Implemenations
 
         public async Task<List<ChangeApplicationStatus>> GetAllAsync()
         {
+            
+
             List<ChangeApplicationStatus> changeApplicationStatuses = await _caStatusRepository.GetAllAsync();
 
             if (changeApplicationStatuses == null)

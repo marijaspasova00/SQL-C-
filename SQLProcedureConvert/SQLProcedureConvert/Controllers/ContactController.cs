@@ -23,7 +23,7 @@ namespace SQLProcedureConvert.Controllers
         {
             try
             {
-                if (contact == null || contact.ID == 0 || contact.Name == null)
+                if (contact == null || contact.Name == null)
                 {
                     return BadRequest("Invalid input");
                 }

@@ -101,17 +101,12 @@ namespace SQLProcedureConvert.DataAccess.Migrations
             modelBuilder.Entity("SQLProcedureConvert.Domain.Models.ChangeApplicationStatus", b =>
                 {
                     b.HasOne("SQLProcedureConvert.Domain.Models.Application", "Application")
-                        .WithMany("ChangeApplicationStatus")
+                        .WithMany()
                         .HasForeignKey("ApplicationID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Application");
-                });
-
-            modelBuilder.Entity("SQLProcedureConvert.Domain.Models.Application", b =>
-                {
-                    b.Navigation("ChangeApplicationStatus");
                 });
 #pragma warning restore 612, 618
         }

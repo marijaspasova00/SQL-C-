@@ -15,7 +15,5 @@ namespace SQLProcedureConvert.Domain.Models
         public Contact Contact { get; set; }
         public Status CurrentStatus { get; set; }
 
-        public List<ChangeApplicationStatus> ChangeApplicationStatus { get; set; }
-
     }
 }

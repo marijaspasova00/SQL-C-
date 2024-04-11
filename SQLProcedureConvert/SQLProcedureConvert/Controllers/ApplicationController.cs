@@ -22,7 +22,7 @@ namespace SQLProcedureConvert.Controllers
         {
             try
             {
-                if (application == null || application.ID == 0)
+                if (application == null)
                 {
                     return BadRequest("Invalid input");
                 }
@@ -43,7 +43,7 @@ namespace SQLProcedureConvert.Controllers
             try
             {
 
-                if (applicationID == 0)
+                if (applicationID == null)
                 {
                     return BadRequest("Invalid input");
                 }

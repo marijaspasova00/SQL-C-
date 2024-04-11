@@ -26,9 +26,7 @@ namespace SQLProcedureConvert.DataAccess
             modelBuilder.Entity<Application>()
                    .HasOne(a => a.Contact);
             modelBuilder.Entity<ChangeApplicationStatus>()
-                   .HasOne(s => s.Application)
-                   .WithMany(a => a.ChangeApplicationStatus)
-                   .HasForeignKey(s => s.ApplicationID);
+                   .HasOne(s => s.Application);
         }
     }
 }
